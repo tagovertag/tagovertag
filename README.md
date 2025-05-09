@@ -42,7 +42,7 @@ Sou Técnico em Desenvolvimento de Sistemas e atualmente estudo para me tornar D
 </p>
 
 ---
-
-## 🐍 Snake Animation
+<!--
+## 🐍 Snake Animation -->
 
 ![Snake animation](https://github.com/tagovertag/tagovertag/blob/output/github-contribution-grid-snake.svg)
